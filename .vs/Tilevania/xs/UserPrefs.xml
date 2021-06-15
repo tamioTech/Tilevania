@@ -1,0 +1,11 @@
+﻿<Properties StartupConfiguration="{2E3A31A4-F7D8-19D1-18F6-E270EC5E8CF6}|">
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="a3201580-8330-42b4-a9c7-5a1a49c9244f" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Unity.2D.Tilemap.Extras PreferredExecutionTarget="a3201580-8330-42b4-a9c7-5a1a49c9244f" />
+</Properties>
