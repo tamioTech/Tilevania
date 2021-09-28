@@ -13,16 +13,16 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Ground
+  - Climbing
+  - Player
+  - Background
+  - Feet
+  - Enemy
+  - Turn Around
+  - Hazards
+  - Interactables
+  - Entrance
   - 
   - 
   - 
@@ -43,6 +43,24 @@ TagManager:
     locked: 0
   - name: Background
     uniqueID: 705087503
+    locked: 0
+  - name: Climbing
+    uniqueID: 3402812707
+    locked: 0
+  - name: Enemy
+    uniqueID: 1008177631
+    locked: 0
+  - name: Interactables
+    uniqueID: 2731092271
+    locked: 0
+  - name: Entrance
+    uniqueID: 2441875289
+    locked: 0
+  - name: Player
+    uniqueID: 3986027055
+    locked: 0
+  - name: Hazards
+    uniqueID: 355332381
     locked: 0
   - name: Foreground
     uniqueID: 827479609
